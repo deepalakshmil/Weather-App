@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Content from main
-=======
 Weather App
 
 The Weather App is a React + TypeScript-based application that allows users to check real-time weather conditions for any city. It demonstrates practical use of React, TypeScript, and CSS, offering a clean, interactive interface with responsive design for both desktop and mobile devices.
@@ -33,4 +30,3 @@ Skills Highlighted:
 - Responsive and user-focused UI design
 - Portfolio-ready interactive web application
   Content from feature/weather-list
-  > > > > > > > feature/weather-list
